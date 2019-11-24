@@ -1,3 +1,4 @@
+
 # Lecture 1 - Background biology and theory
 
 [slides](biol2.pdf)
@@ -11,3 +12,4 @@
 At end of each lecture we will be using <pollev.com/stepheneglen560>
 
 
+This repository: <https://github.com/sje30/2019-11-25-kcl>
