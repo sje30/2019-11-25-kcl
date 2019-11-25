@@ -7,6 +7,10 @@
 
 [slides](maps.pdf)
 
+# References
+
+[References](http://damtp.cam.ac.uk/user/sje30/teaching/nst_neuro/)
+
 # Feedback
 
 At end of each lecture we will be using [http://pollev.com/stepheneglen560](http://pollev.com/stepheneglen560)
