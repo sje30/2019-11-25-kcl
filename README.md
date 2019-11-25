@@ -9,7 +9,7 @@
 
 # Feedback
 
-At end of each lecture we will be using [pollev.com/stepheneglen560](pollev.com/stepheneglen560)
+At end of each lecture we will be using [http://pollev.com/stepheneglen560](http://pollev.com/stepheneglen560)
 
 
 This repository: [https://github.com/sje30/2019-11-25-kcl](https://github.com/sje30/2019-11-25-kcl)
